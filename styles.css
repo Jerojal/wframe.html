@@ -1,1 +1,51 @@
+.flex-container {
+    display: flex;
 
+}
+
+.flex-child {
+    flex: 1;
+    border: 2px;
+}  
+
+.flex-child:first-child {
+    margin-right: 20px;
+
+}
+.flex-child green {
+	padding-left:200px;
+
+} 
+ul {
+	
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+	display: inline;
+}
+
+.kuutio {
+  width: 100%;
+  height: 300px;
+}
+
+body{
+	word-wrap: break-word;
+	width: 900px;
+    padding-left:450px;
+
+
+}
+div {
+   word-wrap: break-word;
+   width: 500px;
+}
+
+p {
+	font-size:14px;
+}
+video {margin: 50px;
+		}
