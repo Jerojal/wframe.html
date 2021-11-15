@@ -16,6 +16,7 @@
 	padding-left:200px;
 
 } 
+
 ul {
 	
   list-style-type: none;
@@ -53,4 +54,11 @@ video {margin: 50px;
 .glyphicon {
 	
 	padding:5px;
+}
+footer {
+	font-size: 30px;
+
+	}
+.osoite {margin: 60px;
+		
 }
