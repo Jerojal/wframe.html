@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	<title>Assignment 5B</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <title>Assignment 8B</title>
+	 </head>
+	<style>
+	h1 {
+	font-size: 60px;
+	text-align: center;
+	}
+	
+ 
+
+
+	</style>
+	
+ 
+	<body>
+
+	<header class="page-header">
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+	<img src="square.png" class="img-fluid" alt="laur" style="max-width:200px; width:100%;">
+	<nav>
+	
+    <h1>Otsikko 1 </h1>
+	<ul>
+	<p>aasfpasfkpoajkfgposjdgiopjsdgjsdojgsiojdgoijsjogdisoigjosdjgsiojdgoisjdoigjs</p>
+	
+	<li><a href="https://jerojal.github.io/demo1/">Home</a></li>
+	<li><a href="https://jerojal.github.io/second.html/" target="_blank">Contacts</a></li>
+	</ul>
+	</nav>
+	</nav>
+
+
+	</header>
+	
+
+<div class="flex-container">
+
+  <div class="flex-child magenta">
+		<h2> Otsikko 2 </h2>
+	<p>ajfajspfjapfjwjgiowgiwerioeiorhbioejmrhioesrhjmeriohjmbeiorjhiejmrhriomeoirhjmioerhioejmrhiojmeroiheiorhjmoierhoierihojeiorhjeirjhioejrhioerhiojeiorhjieojr
+	hkjmerioheoirjhoiejrhoijeriohjmeiorhjeiorjhioejrhoij>eriohjeiohjierjhoioafifijkegpokwogowegjmoi>egiwegoioiafalsfkaksflklaskfasklfaöskflaksfölkalsafökalösfklaösfk
+	</p>
+	<h2> Otsikko 3 </h2>
+	<p>ajfajspfjapfjwjgiowgiwerioeiorhbioejmrhioesrhjmeriohjmbeiorjhiejmrhriomeoirhjmioerhioejmrhiojmeroiheiorhjmoierhoierihojeiorhjeirjhioejrhioerhiojeiorhjieojr
+	hkjmerioheoirjhoiejrhoijeriohjmeiorhjeiorjhioejrhoijeriohjeiohjierjhoioafifijkegpokwogowegjmoiwsegiwegoioiafalsfkaksflklaskfasklfaöskflaksfölkalsfökalösfklaösfk
+	</p>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+		
+		<img class="kuutio" src="square.png" class="img-fluid" alt="laur" style="max-width:250px; width:100%;">
+  </div>
+  
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="flex-child green">
+		<h2> Otsikko 4 </h2>
+	<p>ajfajspfjapfjwjgiowgiwerioeiorhbioejmrhioesrhjmeriohjmbeiorjhiejmrhriomeoirhjmioerhioejmrhiojmeroiheiorhjmoierhoierihojeiorhjeirjhioejrhioerhiojeiorhjieojr
+	hkjmerioheoirjhoiejrhoijeriohjmeiorhjeiorjhioejrhoijeriohjeiohjierjhoioafifijkegpokwogowegjmoegiwegoioiafalsfkaksflklaskfasklfaöskflaksfölkalsafökalösfklaösfk
+	ajfajspfjapfjwjgiowgiwerioeiorhbioejmrhioesrhjmeriohjmbeiorjhiejmrhriomeoirhjmioerhioejmrhiojmeroiheiorhjmoierhoierihojeiorhjeirjhioejrhioerhiojeiorhjieojr
+	hkjmerioheoirjhoiejrhoijeriohjmeiorhjeiorjhioejrhoijeriohjeiohjierjhoioafifijkegpokwogowegjmoiwsegiwegoioiafalsfkaksflklaskfasklfaöskflaksfölkalsfökalösfklaösfk
+	</p>
+	<video width="250" height="200" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+	Your browser does not support the video tag.
+	</video>	
+  </div>
+  </div>
+  </nav>
+    
+
+  <footer>
+
+	<ul>
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">  
+		<h2>Contact information</h2>
+		<li><i class="glyphicon glyphicon-cloud"></i></li>
+		<li><i class="glyphicon glyphicon-remove"></i></li>
+		<li><i class="glyphicon glyphicon-user"></i></li>
+	</nav>
+	</ul>
+
+	</footer>
+	
+  
+	</body>
+</html>
+	
+	
